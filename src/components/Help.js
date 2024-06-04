@@ -1,6 +1,6 @@
 import React from "react";
 
-function Help(){
+const Help = () => {
     <div className="help">
         <ul>
             <li>FAQ</li>
